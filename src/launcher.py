@@ -20,8 +20,8 @@ def run_scraper():
     try:
         date_string = datetime.datetime.now().strftime("%Y-%m-%d")
         output_file = f"{date_string}.json"
-        cmd = f"/usr/local/bin/scrapy crawl amazon -o {output_file}"
-        # cmd = f"scrapy crawl amazon -o {output_file}"
+        # cmd = f"/usr/local/bin/scrapy crawl amazon -o {output_file}"
+        cmd = f"scrapy crawl amazon -o {output_file}"
         subprocess.run(cmd, shell=True, check=True)
         logging.info("Scraper ejecutado exitosamente")
         return output_file
@@ -126,7 +126,7 @@ def main():
         process_json_file(json_file)
         # test_transform_data()
 
-        api_url = "http://127.0.0.1:5000/file"
+        api_url = "https://api-amazon-fxc4sbz6ia-no.a.run.app/file"
         response = send_file_to_api("send.json", api_url)
 
         os.remove("send.json")

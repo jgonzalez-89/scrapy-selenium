@@ -42,6 +42,21 @@ class AmazonSpider(scrapy.Spider):
                 "B00GTW4QQ2",
                 "B00U1JHWR4",
                 "B0813DB98Y",
+                "B01MSA66C8",
+                "B01MUI8JBV",
+                "B06XDGDTM9",
+                "B08MFP4KHH",
+                "B01NBXIKIL",
+                "B06Y3NHWVG",
+                "B01N36O3RT",
+                "B07BZDZ3JM",
+                "B077NGWYRX",
+                "B07BZF3HM7",
+                "B08JL2QNCC",
+                "B07KJB395Z",
+                "B075WD97B2",
+                "B06XDD6W7T",
+                "B08JL451SN"
             ]
 
     def start_requests(self):

@@ -1,3 +1,37 @@
 2023-05-05 12:26:25,206 - INFO - Scraper ejecutado exitosamente
 2023-05-05 12:26:27,143 - INFO - Archivo enviado a la API exitosamente
 2023-05-05 12:26:27,149 - INFO - Archivo send.json eliminado
+2023-05-06 09:16:33,360 - INFO - Scraper ejecutado exitosamente
+2023-05-06 09:16:37,520 - INFO - Archivo enviado a la API exitosamente
+2023-05-06 09:16:37,527 - INFO - Archivo send.json eliminado
+2023-05-07 11:03:35,853 - INFO - Scraper ejecutado exitosamente
+2023-05-07 11:03:37,869 - INFO - Archivo enviado a la API exitosamente
+2023-05-07 11:03:37,875 - INFO - Archivo send.json eliminado
+2023-05-08 09:55:06,657 - INFO - Scraper ejecutado exitosamente
+2023-05-08 09:55:13,845 - INFO - Archivo enviado a la API exitosamente
+2023-05-08 09:55:13,852 - INFO - Archivo send.json eliminado
+2023-05-09 09:35:04,394 - INFO - Scraper ejecutado exitosamente
+2023-05-09 09:35:12,157 - INFO - Archivo enviado a la API exitosamente
+2023-05-09 09:35:12,163 - INFO - Archivo send.json eliminado
+2023-05-10 09:28:07,755 - INFO - Scraper ejecutado exitosamente
+2023-05-10 09:28:13,597 - INFO - Archivo enviado a la API exitosamente
+2023-05-10 09:28:13,604 - INFO - Archivo send.json eliminado
+2023-05-11 09:22:12,487 - INFO - Scraper ejecutado exitosamente
+2023-05-11 09:22:19,812 - INFO - Archivo enviado a la API exitosamente
+2023-05-11 09:22:19,813 - INFO - Archivo send.json eliminado
+2023-05-12 09:25:58,592 - INFO - Scraper ejecutado exitosamente
+2023-05-12 09:26:05,373 - INFO - Archivo enviado a la API exitosamente
+2023-05-12 09:26:05,385 - INFO - Archivo send.json eliminado
+2023-05-12 10:28:02,834 - INFO - Scraper ejecutado exitosamente
+2023-05-12 10:28:02,835 - ERROR - Error en el proceso principal: Extra data: line 468 column 1 (char 13488)
+2023-05-12 10:38:48,723 - INFO - Scraper ejecutado exitosamente
+2023-05-12 10:38:48,742 - ERROR - Error al enviar el archivo a la API: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/file
+2023-05-12 10:38:48,742 - ERROR - Error en el proceso principal: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/file
+2023-05-13 10:38:39,635 - INFO - Scraper ejecutado exitosamente
+2023-05-13 10:38:47,136 - INFO - Archivo enviado a la API exitosamente
+2023-05-13 10:38:47,136 - INFO - Archivo send.json eliminado
+2023-05-13 17:06:16,830 - ERROR - Error al ejecutar el scraper: Command 'scrapy crawl amazon -o 2023-05-13.json -a user_id=1' returned non-zero exit status 1.
+2023-05-13 17:06:16,831 - ERROR - Error en el proceso principal: Command 'scrapy crawl amazon -o 2023-05-13.json -a user_id=1' returned non-zero exit status 1.
+2023-05-13 17:07:47,800 - INFO - Scraper ejecutado exitosamente
+2023-05-13 17:07:51,255 - INFO - Archivo enviado a la API exitosamente
+2023-05-13 17:07:51,256 - INFO - Archivo send.json eliminado
