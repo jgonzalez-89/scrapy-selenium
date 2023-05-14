@@ -21,48 +21,14 @@ logging.getLogger("urllib3.connectionpool").setLevel(logging.WARNING)
 class AmazonSpider(scrapy.Spider):
     name = "amazon"
 
-    def __init__(self, asin=None, *args, **kwargs):
+    def __init__(self, asin_list=None, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        if asin:
-            self.asin = asin.split(",")
-        else:
-            self.asin = [
-                "B00ZPQ129C",
-                "B06ZZ6CDY1",
-                "B07RRBZF7T",
-                "B00GCCQ3DI",
-                "B011DCMQZA",
-                "B00GTW4S3S",
-                "B0073FD66A",
-                "B0073FO9AM",
-                "B07ZJ82DFL",
-                "B08SXSWC7Y",
-                "B06XSF4R1X",
-                "B07ZL56NS7",
-                "B00GTW4QQ2",
-                "B00U1JHWR4",
-                "B0813DB98Y",
-                "B01MSA66C8",
-                "B01MUI8JBV",
-                "B06XDGDTM9",
-                "B08MFP4KHH",
-                "B01NBXIKIL",
-                "B06Y3NHWVG",
-                "B01N36O3RT",
-                "B07BZDZ3JM",
-                "B077NGWYRX",
-                "B07BZF3HM7",
-                "B08JL2QNCC",
-                "B07KJB395Z",
-                "B075WD97B2",
-                "B06XDD6W7T",
-                "B08JL451SN"
-            ]
+        self.asin_list = asin_list.split(",") if asin_list else []
 
     def start_requests(self):
-        for asin in self.asin:
+        for asin in self.asin_list:
             url = f"https://www.amazon.es/gp/offer-listing/{asin}"
-            print(f"URL: {url}")  # Agrega esta línea para depurar
+            # print(f"URL: {url}")  # Agrega esta línea para depurar
             headers = {"User-Agent": generate_user_agent()}
             yield SeleniumRequest(
                 url=url,
@@ -79,6 +45,7 @@ class AmazonSpider(scrapy.Spider):
         try:
             codigo_ASIN = self.extract_codigo(response.url)
             fecha = datetime.datetime.now().strftime("%d-%m-%Y")
+            # fecha = "12-05-2023"
             nombre = self.extract_nombre(response)
             imagen = self.extract_imagen(response)
             numero_EAN = self.extract_EAN(response)
@@ -189,3 +156,37 @@ class AmazonSpider(scrapy.Spider):
     #         if match:
     #             return match.group(0)
     #     return None
+
+
+# [
+#                 "B00ZPQ129C",
+#                 "B06ZZ6CDY1",
+#                 "B07RRBZF7T",
+#                 "B00GCCQ3DI",
+#                 "B011DCMQZA",
+#                 "B00GTW4S3S",
+#                 "B0073FD66A",
+#                 "B0073FO9AM",
+#                 "B07ZJ82DFL",
+#                 "B08SXSWC7Y",
+#                 "B06XSF4R1X",
+#                 "B07ZL56NS7",
+#                 "B00GTW4QQ2",
+#                 "B00U1JHWR4",
+#                 "B0813DB98Y",
+#                 "B01MSA66C8",
+#                 "B01MUI8JBV",
+#                 "B06XDGDTM9",
+#                 "B08MFP4KHH",
+#                 "B01NBXIKIL",
+#                 "B06Y3NHWVG",
+#                 "B01N36O3RT",
+#                 "B07BZDZ3JM",
+#                 "B077NGWYRX",
+#                 "B07BZF3HM7",
+#                 "B08JL2QNCC",
+#                 "B07KJB395Z",
+#                 "B075WD97B2",
+#                 "B06XDD6W7T",
+#                 "B08JL451SN"
+#             ]

@@ -5,6 +5,9 @@ import datetime
 import json
 import requests
 import logging
+import psycopg2
+import uuid
+
 
 logging.basicConfig(
     filename="launcher.log",
@@ -13,15 +16,48 @@ logging.basicConfig(
 )
 
 
-def run_scraper():
+def get_asins(user_id):
+    try:
+        connection = psycopg2.connect(
+            user="database_bm6b_user",
+            password="GFzUrYSTqU239m5pYQ9QiVHZKJl2MA0D",
+            host="dpg-chaddcqk728r881d0t0g-a.frankfurt-postgres.render.com",
+            port="5432",
+            database="database_bm6b",
+        )
+        cursor = connection.cursor()
+
+        query = f'SELECT "ASIN" FROM user_product_list WHERE user_id = {user_id};'
+        cursor.execute(query)
+        asins = cursor.fetchall()  # devuelve una lista de tuplas
+
+        # transformar la lista de tuplas a una lista de strings
+        asin_list = [asin[0] for asin in asins]
+        print(asin_list)
+
+        return asin_list
+
+    except (Exception, psycopg2.Error) as error:
+        print("Error fetching data from PostgreSQL", error)
+
+    finally:
+        if connection:
+            cursor.close()
+            connection.close()
+            print("PostgreSQL connection is closed")
+
+
+def run_scraper(user_id):
     project_path = os.path.dirname(os.path.abspath(__file__))
     os.chdir(project_path)
     sys.path.append(project_path)
     try:
+        asin_list = get_asins(user_id)
+        asin_string = ",".join(asin_list)
+        uuid_random = str(uuid.uuid4())
         date_string = datetime.datetime.now().strftime("%Y-%m-%d")
-        output_file = f"{date_string}.json"
-        # cmd = f"/usr/local/bin/scrapy crawl amazon -o {output_file}"
-        cmd = f"scrapy crawl amazon -o {output_file}"
+        output_file = f"{date_string}-{uuid_random}.json"
+        cmd = f"scrapy crawl amazon -o {output_file} -a asin_list={asin_string}"
         subprocess.run(cmd, shell=True, check=True)
         logging.info("Scraper ejecutado exitosamente")
         return output_file
@@ -79,54 +115,13 @@ def send_file_to_api(file_path, api_url):
         raise
 
 
-# def test_transform_data():
-#     input_data = [
-#         {
-#             "fecha": "2023-05-05",
-#             "imagen": "image_url",
-#             "nombre": "product_name",
-#             "ASIN": "ASIN123",
-#             "EAN": "EAN123",
-#             "vendedores": ["seller1", "seller2"],
-#             "precios": [100, 200]
-#         }
-#     ]
-
-#     expected_output = [
-#         {
-#             "fecha": "2023-05-05",
-#             "imagen": "image_url",
-#             "nombre": "product_name",
-#             "ASIN": "ASIN123",
-#             "EAN": "EAN123",
-#             "historicos": {
-#                 "seller1": [
-#                     {
-#                         "fecha": "2023-05-05",
-#                         "precio": 100
-#                     }
-#                 ],
-#                 "seller2": [
-#                     {
-#                         "fecha": "2023-05-05",
-#                         "precio": 200
-#                     }
-#                 ]
-#             }
-#         }
-#     ]
-
-#     transformed_data = transform_data(input_data)
-#     assert transformed_data == expected_output, f"Error: Resultado esperado {expected_output}, pero se obtuvo {transformed_data}"
-
-
 def main():
     try:
-        json_file = run_scraper()
+        user_id = 1  # o el ID del usuario que quieras
+        json_file = run_scraper(user_id)
         process_json_file(json_file)
-        # test_transform_data()
 
-        api_url = "https://api-amazon-fxc4sbz6ia-no.a.run.app/file"
+        api_url = f"http://127.0.0.1:5000/user/{user_id}/add_product"
         response = send_file_to_api("send.json", api_url)
 
         os.remove("send.json")
