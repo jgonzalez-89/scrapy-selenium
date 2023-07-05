@@ -1,0 +1,462 @@
+[
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines oi champú 280 ml",
+    "GSI": "14195707237233699508",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 25.08 }],
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.95 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 26.75 }],
+      "NeceserOnline": [{ "fecha": "2023-07-01", "precio": 20.07 }],
+      "Notino.es": [{ "fecha": "2023-07-01", "precio": 27.75 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 21.56 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 23.12 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 26.4 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 32.2 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 32.3 }],
+      "Correos": [{ "fecha": "2023-07-01", "precio": 30.24 }],
+      "PeloPlanet": [{ "fecha": "2023-07-01", "precio": 22.25 }],
+      "Centro Integral Conchi Nieto": [
+        { "fecha": "2023-07-01", "precio": 33.25 }
+      ],
+      "Carethy.es": [{ "fecha": "2023-07-01", "precio": 33.1 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 27.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines - champú nutritivo naturaltech nourishing 1000 ml",
+    "GSI": "12276963486079426675",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.7 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 60.0 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 54.25 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 60.0 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 51.69 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 55.8 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 60.0 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 60.0 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines oi acondicionador 250 ml",
+    "GSI": "9158348605555005549",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.95 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 31.25 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 31.25 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 24.87 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 27.39 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 30.0 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 36.2 }],
+      "Carethy.es": [{ "fecha": "2023-07-01", "precio": 36.79 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 40.25 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 31.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines heart of glass rich conditioner 250 ml",
+    "GSI": "8665728360764654241",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 16.45 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 34.53 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 35.5 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 31.0 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 34.52 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 30.99 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 31.0 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 39.0 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 39.7 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 34.45 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 43.75 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 34.75 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines - love curl acondicionador 1000ml",
+    "GSI": "6025983038085933501",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.2 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 82.72 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 83.75 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 66.82 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 62.39 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 75.32 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 76.5 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 76.3 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 82.75 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 82.75 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines naturaltech nourishing hair building pak 250 ml",
+    "GSI": "11392259176749487154",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.7 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 43.0 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 43.0 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 36.75 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 36.39 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 36.75 }],
+      "MyOrigines": [{ "fecha": "2023-07-01", "precio": 33.42 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 43.0 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 52.0 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 43.0 }],
+      "Miravia": [{ "fecha": "2023-07-01", "precio": 38.95 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines minu acondicionador 1000 ml",
+    "GSI": "9520454788893692575",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.2 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 66.82 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 75.32 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 76.5 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 76.3 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 82.75 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 82.45 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines oi all in one milk 135 ml",
+    "GSI": "9543312353508303797",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.95 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 33.25 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 26.23 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 32.25 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 36.75 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 32.7 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 39.2 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 39.3 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 34.25 }],
+      "Miravia": [{ "fecha": "2023-07-01", "precio": 34.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines oi oil 135 ml",
+    "GSI": "8673629157721452512",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 23.95 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 41.33 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 45.5 }],
+      "Notino.es": [{ "fecha": "2023-07-01", "precio": 56.55 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 39.2 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 43.81 }],
+      "MyOrigines": [{ "fecha": "2023-07-01", "precio": 41.07 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 51.1 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 45.5 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 50.7 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 53.5 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 54.25 }],
+      "Tacha Beauty": [{ "fecha": "2023-07-01", "precio": 64.05 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 59.3 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 44.41 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 54.25 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 54.25 }],
+      "Miravia": [{ "fecha": "2023-07-01", "precio": 51.54 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines oi hair butter 250 ml",
+    "GSI": "9867941516065695162",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 34.88 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 38.0 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 33.5 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 30.4 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 38.77 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 33.24 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 41.5 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 37.6 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 39.75 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 34.49 }],
+      "Carethy.es": [{ "fecha": "2023-07-01", "precio": 42.56 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 48.75 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 39.75 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines nounou acondicionador 250 ml",
+    "GSI": "9058111224963794474",
+    "historicos": {
+      "Famaideal": [{ "fecha": "2023-07-01", "precio": 11.83 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 26.24 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 23.12 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 25.75 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 24.4 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines heart of glass silkening shampoo 250 ml",
+    "GSI": "10011157393115561308",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 16.45 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 23.99 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 29.25 }],
+      "TuCabelloSano.com": [{ "fecha": "2023-07-01", "precio": 29.73 }],
+      "Notino.es": [{ "fecha": "2023-07-01", "precio": 30.35 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 28.5 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 29.21 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 25.59 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 27.5 }],
+      "Noelia Jiménez Shop": [{ "fecha": "2023-07-01", "precio": 33.4 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 33.45 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 28.5 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines replumping champú 250 ml",
+    "GSI": "14085577273259023259",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.7 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 26.24 }],
+      "TuCabelloSano.com": [{ "fecha": "2023-07-01", "precio": 27.5 }],
+      "Bellezasecret": [{ "fecha": "2023-07-01", "precio": 18.48 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 24.01 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 22.01 }],
+      "Famaideal": [{ "fecha": "2023-07-01", "precio": 12.47 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 30.5 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 31.2 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 31.3 }],
+      "Correos": [{ "fecha": "2023-07-01", "precio": 29.24 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 35.25 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 26.25 }],
+      "Miravia": [{ "fecha": "2023-07-01", "precio": 25.78 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines more inside sea salt spray 250 ml",
+    "GSI": "2667241078769520361",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 28.47 }],
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 13.95 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 28.75 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 31.75 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 23.5 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 25.37 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 32.25 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 30.4 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 36.8 }],
+      "Correos": [{ "fecha": "2023-07-01", "precio": 34.74 }],
+      "Carethy.es": [{ "fecha": "2023-07-01", "precio": 35.91 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 31.75 }],
+      "Biuky.es": [{ "fecha": "2023-07-01", "precio": 35.14 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines champú nounou 75 ml",
+    "GSI": "3476464378683291905",
+    "historicos": {
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 11.25 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 17.43 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 14.55 }],
+      "Perfumeria.com": [{ "fecha": "2023-07-01", "precio": 12.44 }],
+      "Perfumerias.com": [{ "fecha": "2023-07-01", "precio": 12.44 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 14.38 }],
+      "La Tienda de Cosméticos": [{ "fecha": "2023-07-01", "precio": 14.08 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 12.0 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 11.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines more inside curl building serum - 250 ml",
+    "GSI": "1050479297502208109",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 17.2 }],
+      "Amazon.es": [{ "fecha": "2023-07-01", "precio": 30.99 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 28.0 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 24.24 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 27.25 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 26.4 }],
+      "Noelia Jiménez Shop": [{ "fecha": "2023-07-01", "precio": 28.4 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 32.2 }],
+      "Correos": [{ "fecha": "2023-07-01", "precio": 30.24 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 32.3 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 36.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines naturaltech purifying champú 100 ml",
+    "GSI": "813071008737609872",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 11.75 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 11.75 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 15.75 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 14.97 }],
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.7 }],
+      "La Tienda de Cosméticos": [{ "fecha": "2023-07-01", "precio": 14.53 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 12.4 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 14.75 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 16.7 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 17.24 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 20.75 }],
+      "Carethy.es": [{ "fecha": "2023-07-01", "precio": 17.04 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 11.75 }],
+      "Biuky.es": [{ "fecha": "2023-07-01", "precio": 16.74 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines - melu acondicionador 1000ml",
+    "GSI": "12414137775388458150",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.2 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 82.74 }],
+      "Notino.es": [{ "fecha": "2023-07-01", "precio": 92.55 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 75.32 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 76.5 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 66.97 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 82.75 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines energizing champú 250ml",
+    "GSI": "15525290041480229573",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 25.39 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 26.75 }],
+      "NeceserOnline": [{ "fecha": "2023-07-01", "precio": 20.5 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 26.24 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 24.01 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 22.01 }],
+      "MyOrigines": [{ "fecha": "2023-07-01", "precio": 22.32 }],
+      "Noelia Jiménez Shop": [{ "fecha": "2023-07-01", "precio": 31.15 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 30.5 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 31.3 }],
+      "Worten": [{ "fecha": "2023-07-01", "precio": 93.56 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 35.25 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 26.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines renewing champú 250 ml",
+    "GSI": "14144590952505956890",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.7 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 25.39 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 27.0 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 22.01 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 24.01 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 30.5 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 31.3 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 31.2 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 25.34 }],
+      "Centro Integral Conchi Nieto": [
+        { "fecha": "2023-07-01", "precio": 32.25 }
+      ],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 60.0 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 26.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines champú rebalancing 250 ml",
+    "GSI": "3321539125099760305",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.7 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 27.0 }],
+      "TuCabelloSano.com": [{ "fecha": "2023-07-01", "precio": 27.5 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 24.01 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 26.0 }],
+      "Correos": [{ "fecha": "2023-07-01", "precio": 29.24 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 27.47 }],
+      "Carethy.es": [{ "fecha": "2023-07-01", "precio": 28.77 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines alchemic champú copper 280 ml",
+    "GSI": "11206826918413678452",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 24.39 }],
+      "primor.eu": [{ "fecha": "2023-07-01", "precio": 25.9 }],
+      "Primor": [{ "fecha": "2023-07-01", "precio": 25.9 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 25.6 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 21.27 }],
+      "La Tienda de Cosméticos": [{ "fecha": "2023-07-01", "precio": 25.78 }],
+      "Hola Princesa": [{ "fecha": "2023-07-01", "precio": 27.9 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 23.02 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 33.25 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 24.25 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines melu champú 250 ml",
+    "GSI": "2530150965370143429",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 22.79 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 24.5 }],
+      "Notino.es": [{ "fecha": "2023-07-01", "precio": 22.55 }],
+      "Perfumes Club": [{ "fecha": "2023-07-01", "precio": 23.0 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 21.32 }],
+      "todoparamipelo": [{ "fecha": "2023-07-01", "precio": 24.54 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 23.5 }],
+      ".Prohair Store": [{ "fecha": "2023-07-01", "precio": 22.6 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 28.0 }],
+      "luxciti.es": [{ "fecha": "2023-07-01", "precio": 23.3 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 28.05 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 24.17 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 32.0 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 23.0 }],
+      "fruugo.es": [{ "fecha": "2023-07-01", "precio": 79.0 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines - love smoothing champú 250ml",
+    "GSI": "6667073508218113189",
+    "historicos": {
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 22.79 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 24.5 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 23.5 }],
+      "Noelia Jiménez Shop": [{ "fecha": "2023-07-01", "precio": 24.9 }],
+      "The Beauty Concept": [{ "fecha": "2023-07-01", "precio": 28.0 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 27.95 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 28.05 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 24.7 }],
+      "Cuidamos de tu Cabello": [{ "fecha": "2023-07-01", "precio": 32.0 }]
+    }
+  },
+  {
+    "fecha": "2023-07-01",
+    "nombre": "davines champú calming 250 ml",
+    "GSI": "10708395228749773555",
+    "historicos": {
+      "davines-ah.com": [{ "fecha": "2023-07-01", "precio": 15.7 }],
+      "Amazon.es - Seller": [{ "fecha": "2023-07-01", "precio": 25.39 }],
+      "anadeana": [{ "fecha": "2023-07-01", "precio": 27.0 }],
+      "TuCabelloSano.com": [{ "fecha": "2023-07-01", "precio": 27.5 }],
+      "Beauty Hair": [{ "fecha": "2023-07-01", "precio": 24.01 }],
+      "Peluquería Wapa´s": [{ "fecha": "2023-07-01", "precio": 22.01 }],
+      "MyOrigines": [{ "fecha": "2023-07-01", "precio": 22.05 }],
+      "EduardoSouto": [{ "fecha": "2023-07-01", "precio": 26.03 }],
+      "hairllowers.com": [{ "fecha": "2023-07-01", "precio": 27.55 }],
+      "Sm The Beauty": [{ "fecha": "2023-07-01", "precio": 31.2 }],
+      "Correos": [{ "fecha": "2023-07-01", "precio": 29.24 }],
+      "Brasty.es": [{ "fecha": "2023-07-01", "precio": 24.47 }],
+      "Carethy.es": [{ "fecha": "2023-07-01", "precio": 31.07 }],
+      "Coserty.com": [{ "fecha": "2023-07-01", "precio": 26.25 }],
+      "Biuky.es": [{ "fecha": "2023-07-01", "precio": 30.42 }]
+    }
+  }
+]

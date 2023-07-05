@@ -2,9 +2,9 @@ import os
 import sys
 import subprocess
 import datetime
-import json
 import requests
 import logging
+import shutil
 
 logging.basicConfig(
     filename="launcher.log",
@@ -12,58 +12,17 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
-
-def run_scraper():
+def run_scraper(scraper_name):
     project_path = os.path.dirname(os.path.abspath(__file__))
     os.chdir(project_path)
     sys.path.append(project_path)
     try:
-        date_string = datetime.datetime.now().strftime("%Y-%m-%d")
-        output_file = f"{date_string}.json"
-        # cmd = f"/usr/local/bin/scrapy crawl amazon -o {output_file}"
-        cmd = f"scrapy crawl amazon -o {output_file}"
+        cmd = f"scrapy crawl {scraper_name}"
         subprocess.run(cmd, shell=True, check=True)
-        logging.info("Scraper ejecutado exitosamente")
-        return output_file
+        logging.info(f"Scraper {scraper_name} ejecutado exitosamente")
     except Exception as e:
-        logging.error(f"Error al ejecutar el scraper: {e}")
+        logging.error(f"Error al ejecutar el scraper {scraper_name}: {e}")
         raise
-
-
-def transform_data(input_data):
-    transformed_data = []
-
-    for product in input_data:
-        transformed_product = {
-            "fecha": product["fecha"],
-            "imagen": product["imagen"],
-            "nombre": product["nombre"],
-            "ASIN": product["ASIN"],
-            "EAN": product["EAN"],
-            "historicos": {},
-        }
-
-        for vendedor, precio in zip(product["vendedores"], product["precios"]):
-            if vendedor not in transformed_product["historicos"]:
-                transformed_product["historicos"][vendedor] = []
-
-            transformed_product["historicos"][vendedor].append(
-                {"fecha": product["fecha"], "precio": precio}
-            )
-
-        transformed_data.append(transformed_product)
-
-    return transformed_data
-
-
-def process_json_file(json_file):
-    with open(json_file, "r", encoding="utf-8") as input_file:
-        input_data = json.load(input_file)
-
-    transformed_data = transform_data(input_data)
-
-    with open("send.json", "w", encoding="utf-8") as output_file:
-        json.dump(transformed_data, output_file, indent=2, ensure_ascii=False)
 
 
 def send_file_to_api(file_path, api_url):
@@ -72,65 +31,28 @@ def send_file_to_api(file_path, api_url):
             files = {"file": f}
             response = requests.post(api_url, files=files)
             response.raise_for_status()
-            logging.info("Archivo enviado a la API exitosamente")
+            logging.info(f"Archivo {file_path} enviado a la API exitosamente")
         return response
     except Exception as e:
-        logging.error(f"Error al enviar el archivo a la API: {e}")
+        logging.error(f"Error al enviar el archivo {file_path} a la API: {e}")
         raise
-
-
-# def test_transform_data():
-#     input_data = [
-#         {
-#             "fecha": "2023-05-05",
-#             "imagen": "image_url",
-#             "nombre": "product_name",
-#             "ASIN": "ASIN123",
-#             "EAN": "EAN123",
-#             "vendedores": ["seller1", "seller2"],
-#             "precios": [100, 200]
-#         }
-#     ]
-
-#     expected_output = [
-#         {
-#             "fecha": "2023-05-05",
-#             "imagen": "image_url",
-#             "nombre": "product_name",
-#             "ASIN": "ASIN123",
-#             "EAN": "EAN123",
-#             "historicos": {
-#                 "seller1": [
-#                     {
-#                         "fecha": "2023-05-05",
-#                         "precio": 100
-#                     }
-#                 ],
-#                 "seller2": [
-#                     {
-#                         "fecha": "2023-05-05",
-#                         "precio": 200
-#                     }
-#                 ]
-#             }
-#         }
-#     ]
-
-#     transformed_data = transform_data(input_data)
-#     assert transformed_data == expected_output, f"Error: Resultado esperado {expected_output}, pero se obtuvo {transformed_data}"
 
 
 def main():
     try:
-        json_file = run_scraper()
-        process_json_file(json_file)
-        # test_transform_data()
+        date_string = datetime.datetime.now().strftime("%Y-%m-%d")
+        json_file = f"{date_string}.json"
+        
+        run_scraper('amazon')
+        api_url_amazon = "http://127.0.0.1:8000/amazon/file/"
+        send_file_to_api(json_file, api_url_amazon)
+        shutil.move(json_file, f"./amazon_logs/{json_file}")
 
-        api_url = "https://api-amazon-fxc4sbz6ia-no.a.run.app/file"
-        response = send_file_to_api("send.json", api_url)
+        run_scraper('google')
+        api_url_google = "http://127.0.0.1:8000/google/file/"
+        send_file_to_api(json_file, api_url_google)
+        shutil.move(json_file, f"./google_logs/{json_file}")
 
-        os.remove("send.json")
-        logging.info("Archivo send.json eliminado")
     except Exception as e:
         logging.error(f"Error en el proceso principal: {e}")
 

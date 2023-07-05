@@ -715,3 +715,29 @@ ActorChild.cpp:57
 1688239522117	Marionette	INFO	Stopped listening on port 52556
 Dynamically enable window occlusion 1
 console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 184))
+1688291707364	geckodriver	INFO	Listening on 127.0.0.1:56601
+1688291710394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56602" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOSEL~1\\AppData\\Local\\Temp\\rust_mozprofileGSgnA1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688291710703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688291710706	Marionette	INFO	Listening on port 56609
+Read port: 56609
+WebDriver BiDi listening on ws://127.0.0.1:56602
+1688291710814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56602/devtools/browser/445498a2-68c6-4dd2-a392-e34da58974f1
+1688291853671	Marionette	INFO	Stopped listening on port 56609
+Dynamically enable window occlusion 1
+1688422439659	geckodriver	INFO	Listening on 127.0.0.1:60028
+1688422442693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JOSEL~1\\AppData\\Local\\Temp\\rust_mozprofileQM00GF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688422443093	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688422443097	Marionette	INFO	Listening on port 60038
+Read port: 60038
+WebDriver BiDi listening on ws://127.0.0.1:60029
+1688422443225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60029/devtools/browser/b17002a6-522a-4d42-b296-eb48f89cf3a9
+1688423576224	Marionette	INFO	Stopped listening on port 60038
+Dynamically enable window occlusion 1
