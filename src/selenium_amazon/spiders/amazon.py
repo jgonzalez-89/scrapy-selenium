@@ -27,36 +27,34 @@ class AmazonSpider(scrapy.Spider):
             self.asin = asin.split(",")
         else:
             self.asin = [
-                "B00ZPQ129C",
-                "B06ZZ6CDY1",
-                "B07RRBZF7T",
-                "B00GCCQ3DI",
-                "B011DCMQZA",
-                "B00GTW4S3S",
+                "B005FNKMF0",
+                "B006TH5DUK",
                 "B0073FD66A",
                 "B0073FO9AM",
-                "B07ZJ82DFL",
-                "B08SXSWC7Y",
-                "B06XSF4R1X",
-                "B07ZL56NS7",
+                "B0073FTCJU",
+                "B00GB8IA5C",
+                "B00GCCQ3DI",
+                "B00GHUZDFO",
                 "B00GTW4QQ2",
+                "B00GTW4S3S",
+                "B00OOUSJ0A",
+                "B00QFKIYX4",
                 "B00U1JHWR4",
+                "B00VO6BRGK",
+                "B00ZPQ129C",
+                "B011DCMQZA",
+                "B0165H0JHU",
+                "B06XSF4R1X",
+                "B06ZZ6CDY1",
+                "B074HB44JQ",
+                "B075PLPVWF",
+                "B079GPHV44",
+                "B07RRBZF7T",
+                "B07ZJ82DFL",
+                "B07ZL6B5SS",
                 "B0813DB98Y",
-                "B01MSA66C8",
-                "B01MUI8JBV",
-                "B06XDGDTM9",
-                "B08MFP4KHH",
-                "B01NBXIKIL",
-                "B06Y3NHWVG",
-                "B01N36O3RT",
-                "B07BZDZ3JM",
-                "B077NGWYRX",
-                "B07BZF3HM7",
-                "B08JL2QNCC",
-                "B07KJB395Z",
-                "B075WD97B2",
-                "B06XDD6W7T",
-                "B08JL451SN"
+                "B08SXQTV52",
+                "B08SXSWC7Y",
             ]
 
     def start_requests(self):
@@ -80,8 +78,8 @@ class AmazonSpider(scrapy.Spider):
             codigo_ASIN = self.extract_codigo(response.url)
             fecha = datetime.datetime.now().strftime("%d-%m-%Y")
             nombre = self.extract_nombre(response)
-            imagen = self.extract_imagen(response)
-            numero_EAN = self.extract_EAN(response)
+            # imagen = self.extract_imagen(response)
+            # numero_EAN = self.extract_EAN(response)
 
             offers = response.xpath("//*[@id='aod-pinned-offer']|//*[@id='aod-offer']")
             vendedores = []
@@ -107,12 +105,12 @@ class AmazonSpider(scrapy.Spider):
             else:
                 yield {
                     "fecha": fecha,
-                    "imagen": imagen,
+                    # "imagen": imagen,
                     "nombre": nombre,
                     "vendedores": vendedores,
                     "precios": precios,
                     "ASIN": codigo_ASIN,
-                    "EAN": numero_EAN,
+                    # "EAN": numero_EAN,
                 }
                 time.sleep(random.uniform(1, 3))
 
@@ -159,26 +157,26 @@ class AmazonSpider(scrapy.Spider):
         return None
 
     @staticmethod
-    def extract_EAN(response):
-        span_elements = response.xpath("//span/text()").getall()
-        numero_modelo_regex = r"\b\d{13}\b"
-        for element in span_elements:
-            match = re.search(numero_modelo_regex, element)
-            if match:
-                return match.group(0)
-        return None
-
-    @staticmethod
-    def extract_imagen(response):
-        return response.xpath("//*[@id='landingImage']/@src").get()
-
-    @staticmethod
     def extract_codigo(url):
         codigo_regex = r"\b[B0-9][A-Z0-9]{9}\b"
         match = re.search(codigo_regex, url)
         if match:
             return match.group(0)
         return None
+
+    # @staticmethod
+    # def extract_EAN(response):
+    #     span_elements = response.xpath("//span/text()").getall()
+    #     numero_modelo_regex = r"\b\d{13}\b"
+    #     for element in span_elements:
+    #         match = re.search(numero_modelo_regex, element)
+    #         if match:
+    #             return match.group(0)
+    #     return None
+
+    # @staticmethod
+    # def extract_imagen(response):
+    #     return response.xpath("//*[@id='landingImage']/@src").get()
 
     # @staticmethod
     # def extract_codigo(response):
