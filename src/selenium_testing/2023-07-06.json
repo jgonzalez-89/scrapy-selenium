@@ -1,0 +1,412 @@
+[
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone, mascarilla de arcilla activa, 60 ml.",
+    "distribuidor": "ComfortZone",
+    "precio": 31.0,
+    "ASIN": "B01N36O3RT",
+    "imagen": "https://m.media-amazon.com/images/I/51MIzKODCxL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "body strategist leg gel 200 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 50.0,
+    "ASIN": "B085GK4LQF",
+    "imagen": "https://m.media-amazon.com/images/I/51Gz-mrycVL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone aromasoul - crema corporal mediterránea, 200 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 38.0,
+    "ASIN": "B07KJ8MPD1",
+    "imagen": "https://m.media-amazon.com/images/I/51rwUTrMUfL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "skin regimen microalgae essence 100 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 66.0,
+    "ASIN": "B07C7KCF4W",
+    "imagen": "https://m.media-amazon.com/images/I/61U0onW5VjL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone active pureness gel",
+    "distribuidor": "ComfortZone",
+    "precio": 45.0,
+    "ASIN": "B01N5S2BHO",
+    "imagen": "https://m.media-amazon.com/images/I/51fwmbHdc+L._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone, crema y leche facial - 50 ml.",
+    "distribuidor": "ComfortZone",
+    "precio": 113.0,
+    "ASIN": "B07BZDZ3JM",
+    "imagen": "https://m.media-amazon.com/images/I/51W+bNuc8QL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sublime skin mascarilla de ojos - 6 unidades",
+    "distribuidor": "ComfortZone",
+    "precio": 82.0,
+    "ASIN": "B015UDH09A",
+    "imagen": "https://m.media-amazon.com/images/I/61o5IlMBzSL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sublime skin crema - 60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 140.0,
+    "ASIN": "B015UCTS5U",
+    "imagen": "https://m.media-amazon.com/images/I/61xOBfuguiL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone, crema corporal - 200 ml.",
+    "distribuidor": "ComfortZone",
+    "precio": 60.0,
+    "ASIN": "B07C25PY16",
+    "imagen": "https://m.media-amazon.com/images/I/513GgFTdo6L._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone - active pureness corrector",
+    "distribuidor": "ComfortZone",
+    "precio": 32.0,
+    "ASIN": "B01N9UH4T9",
+    "imagen": "https://m.media-amazon.com/images/I/41cZuhuKwdL._AC_SY879_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone renight crema - 60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 65.0,
+    "ASIN": "B01DRZEK96",
+    "imagen": "https://m.media-amazon.com/images/I/51azBivbFaL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone renight mask -60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 55.0,
+    "ASIN": "B07Z1BWSYX",
+    "imagen": "https://m.media-amazon.com/images/I/51X6cfkyJEL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone hydramemory cream gel tratamiento facial - 60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 62.0,
+    "ASIN": "B075WD97B2",
+    "imagen": "https://m.media-amazon.com/images/I/51ZAwrDvBcL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sublime skin crema de ojos - 15 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 82.0,
+    "ASIN": "B015UD2POA",
+    "imagen": "https://m.media-amazon.com/images/I/51ifGXPPENL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone hydramemory eye gel contorno de ojos - 15 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 43.0,
+    "ASIN": "B06Y3NHWVG",
+    "imagen": "https://m.media-amazon.com/images/I/51wt5HHZ1KL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone tranquillity body crema - 180 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 72.0,
+    "ASIN": "B01NB0TI00",
+    "imagen": "https://m.media-amazon.com/images/I/51ksrLHmZZL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone essential care limpiador facial - 150 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 36.0,
+    "ASIN": "B01MSA66C8",
+    "imagen": "https://m.media-amazon.com/images/I/516eBH72roL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone, crema y leche facial - 25 ml.",
+    "distribuidor": "ComfortZone",
+    "precio": 104.0,
+    "ASIN": "B07BZM3HQH",
+    "imagen": "https://m.media-amazon.com/images/I/51jx16ylApL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone remedy cream to oil limpiador facial - 150 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 50.0,
+    "ASIN": "B06XDGM9HL",
+    "imagen": "https://m.media-amazon.com/images/I/51679iAdIML._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": null,
+    "distribuidor": "ComfortZone",
+    "precio": null,
+    "ASIN": "STRATEGIST",
+    "imagen": null,
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone essential care toner limpiador - 200 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 25.0,
+    "ASIN": "B01NAVYVLG",
+    "imagen": "https://m.media-amazon.com/images/I/41AScW6egkL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sublime skin rich cream tratamiento facial - 60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 142.0,
+    "ASIN": "B0190MZQ34",
+    "imagen": "https://m.media-amazon.com/images/I/6168kWFcNHL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone tranquillity body loción - 200 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 45.0,
+    "ASIN": "B01MUI8JBV",
+    "imagen": "https://m.media-amazon.com/images/I/51oBj+HcUTL._SX522_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sublime skin suero - 30 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 123.0,
+    "ASIN": "B015UD5JLG",
+    "imagen": "https://m.media-amazon.com/images/I/41Maogp9dIL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone tranquillity blend tratamiento corporal - 50 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 29.0,
+    "ASIN": "B01MYFU663",
+    "imagen": "https://m.media-amazon.com/images/I/41OZ-bjYmRL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone tranquillity shower crema - 200 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 39.0,
+    "ASIN": "B01ND3RNF9",
+    "imagen": "https://m.media-amazon.com/images/I/51RHsfqdghL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone tranquillity bath & body oil aceite - 200 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 45.0,
+    "ASIN": "B01NC23R9N",
+    "imagen": "https://m.media-amazon.com/images/I/51xHNBQN72L._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sublime skin essence 100 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 76.0,
+    "ASIN": "B077NF3R4W",
+    "imagen": "https://m.media-amazon.com/images/I/51oFEdlTfsL._AC_SY879_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone remedy cream tratamiento facial - 60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 55.0,
+    "ASIN": "B06XDGDTM9",
+    "imagen": "https://m.media-amazon.com/images/I/416Em1V9wyL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone, loción corporal - 200 ml.",
+    "distribuidor": "ComfortZone",
+    "precio": 38.0,
+    "ASIN": "B01N7UYUVY",
+    "imagen": "https://m.media-amazon.com/images/I/51uRMZqMBTL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone - active pureness hydra fluid",
+    "distribuidor": "ComfortZone",
+    "precio": 46.0,
+    "ASIN": "B01NBXIKIL",
+    "imagen": "https://m.media-amazon.com/images/I/41q+WaYgwoL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sun soul oil spf 6 aceite corporal - 150 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 38.0,
+    "ASIN": "B074Y3DQ47",
+    "imagen": "https://m.media-amazon.com/images/I/41pqH05J8EL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "sublime skin mascarilla elevadora.",
+    "distribuidor": "ComfortZone",
+    "precio": 99.0,
+    "ASIN": "B077NGWYRX",
+    "imagen": "https://m.media-amazon.com/images/I/511NxeoqgEL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone hydramemory cream tratamiento facial - 60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 65.0,
+    "ASIN": "B01JTHDLTQ",
+    "imagen": "https://m.media-amazon.com/images/I/51bT2OlSYVL._SX522_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone remedy defense crema - 60 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 65.0,
+    "ASIN": "B06XD65SNZ",
+    "imagen": "https://m.media-amazon.com/images/I/51gb1tEOR4L._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone hydramemory serum 30 ml",
+    "distribuidor": "ComfortZone",
+    "precio": 60.0,
+    "ASIN": "B07L5Q9F49",
+    "imagen": "https://m.media-amazon.com/images/I/515DV73WGiL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone essential - desmaquillador bifásico",
+    "distribuidor": "ComfortZone",
+    "precio": 65.0,
+    "ASIN": "B07KJBL9RK",
+    "imagen": "https://m.media-amazon.com/images/I/51ZE-E-JBGL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone aromasoul mediterráneo",
+    "distribuidor": "ComfortZone",
+    "precio": 34.0,
+    "ASIN": "B07KK15DY1",
+    "imagen": "https://m.media-amazon.com/images/I/51f9jNpX4cL._AC_SX569_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone sublime - crema de aceite para la piel (1 unidad)",
+    "distribuidor": "ComfortZone",
+    "precio": 137.0,
+    "ASIN": "B07KJB395Z",
+    "imagen": "https://m.media-amazon.com/images/I/71ki0BqAwzL._SX522_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "suero sublime skin oil de comfort zone.",
+    "distribuidor": "ComfortZone",
+    "precio": 92.0,
+    "ASIN": "B07KJD3N8M",
+    "imagen": "https://m.media-amazon.com/images/I/51ImE7oSpLL._SY679_.jpg",
+    "relevancia": 0
+  },
+  {
+    "EAN": 1,
+    "GSI": 2,
+    "nombre": "comfort zone agua micelar esencial – botella de 200 ml – elimina el maquillaje fácilmente – para cara, ojos, labios – limpia poros, refrescante, ingredientes naturales",
+    "distribuidor": "ComfortZone",
+    "precio": 25.0,
+    "ASIN": "B01N36NQVJ",
+    "imagen": "https://m.media-amazon.com/images/I/51Zyvoq3avL._AC_SX569_.jpg",
+    "relevancia": 0
+  }
+]

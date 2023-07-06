@@ -1,7 +1,7 @@
 import json
 
 # Carga los datos del archivo JSON
-with open("Data.json") as f:
+with open("ComfortZone.json") as f:
     data = json.load(f)
 
 # Invierte la lista de productos para conservar el primer producto con cualquier ASIN duplicado
@@ -15,5 +15,5 @@ productos_dict = {producto['ASIN']: producto for producto in data['Productos']}
 data['Productos'] = list(productos_dict.values())[::-1]
 
 # Guarda los datos modificados en el archivo JSON
-with open("Data_update.json", "w") as f:
+with open("data.json", "w") as f:
     json.dump(data, f)
