@@ -57,7 +57,7 @@ def main():
         json_file_path = os.path.join(scraper_path, f"selenium_amazon", json_file_name)
         run_scraper("amazon", json_file_path)
 
-        api_url_amazon = "http://127.0.0.1:8000/amazon/file/"
+        api_url_amazon = "https://yixiephe4z.eu-west-1.awsapprunner.com/amazon/file/"
         send_file_to_api(json_file_path, api_url_amazon)
         shutil.move(json_file_path, f"./amazon_logs/{json_file_name}")
 
@@ -66,7 +66,7 @@ def main():
         json_file_path = os.path.join(scraper_path, f"selenium_google", json_file_name)
         run_scraper("google", json_file_path)
 
-        api_url_google = "http://127.0.0.1:8000/google/file/"
+        api_url_google = "https://yixiephe4z.eu-west-1.awsapprunner.com/google/file/"
         send_file_to_api(json_file_path, api_url_google)
         shutil.move(json_file_path, f"./google_logs/{json_file_name}")
 
