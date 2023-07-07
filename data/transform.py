@@ -9,5 +9,5 @@ for i, producto in enumerate(data["Productos"], 1):
     producto["relevancia"] = i
 
 # Guarda los datos modificados en el archivo JSON
-with open("data.json", "w") as f:
+with open("ComfortZone.json", "w") as f:
     json.dump(data, f)

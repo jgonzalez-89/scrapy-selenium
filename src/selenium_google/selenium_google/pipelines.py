@@ -8,7 +8,7 @@ class TransformDataPipeline:
         transformed_product = {
             "fecha": fecha_transformada,
             "nombre": item["nombre"],
-            "ASIN": item["ASIN"],
+            "GSI": item["GSI"],
             "historicos": {},
         }
 

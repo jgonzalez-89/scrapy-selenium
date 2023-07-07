@@ -15,5 +15,5 @@ productos_dict = {producto['ASIN']: producto for producto in data['Productos']}
 data['Productos'] = list(productos_dict.values())[::-1]
 
 # Guarda los datos modificados en el archivo JSON
-with open("data.json", "w") as f:
+with open("ComfortZone.json", "w") as f:
     json.dump(data, f)

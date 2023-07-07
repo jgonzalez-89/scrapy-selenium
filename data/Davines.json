@@ -51,16 +51,6 @@
       "relevancia": 5
     },
     {
-      "EAN": 8004608269113,
-      "GSI": 10623661203372066259,
-      "nombre": "Naturaltech Nourishing Champ\u00c3\u00ba 250 ml",
-      "distribuidor": "Davines",
-      "precio": 26.25,
-      "ASIN": "B0073FD66A",
-      "imagen": "https://m.media-amazon.com/images/I/710Mkvp7dwL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 6
-    },
-    {
       "EAN": 8004608266495,
       "GSI": 9158348605555005549,
       "nombre": "OI ACONDICIONADOR 250 ML.",
@@ -68,7 +58,7 @@
       "precio": 31.25,
       "ASIN": "B07ZJ82DFL",
       "imagen": "https://m.media-amazon.com/images/I/61aT6ybYFgL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 7
+      "relevancia": 6
     },
     {
       "EAN": 8004608271666,
@@ -78,7 +68,7 @@
       "precio": 28.5,
       "ASIN": "B08SXSWC7Y",
       "imagen": "https://m.media-amazon.com/images/I/71XAYvBZTkL.__AC_SX300_SY300_QL70_ML2_.jpg",
-      "relevancia": 8
+      "relevancia": 7
     },
     {
       "EAN": 8004608255093,
@@ -88,7 +78,7 @@
       "precio": 26.25,
       "ASIN": "B06XSF4R1X",
       "imagen": "https://m.media-amazon.com/images/I/81rPSzWE1YL.__AC_SX300_SY300_QL70_ML2_.jpg",
-      "relevancia": 9
+      "relevancia": 8
     },
     {
       "EAN": 8004608269199,
@@ -98,7 +88,7 @@
       "precio": 43.0,
       "ASIN": "B07ZL56NS7",
       "imagen": "https://m.media-amazon.com/images/I/51lRZCTGsoL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 10
+      "relevancia": 9
     },
     {
       "EAN": 8004608245872,
@@ -108,7 +98,7 @@
       "precio": 23,
       "ASIN": "B00U1JHWR4",
       "imagen": "https://m.media-amazon.com/images/I/61R0Gfz7SoL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 11
+      "relevancia": 10
     },
     {
       "EAN": 8004608269250,
@@ -118,7 +108,7 @@
       "precio": 36.0,
       "ASIN": "B0813DB98Y",
       "imagen": "https://m.media-amazon.com/images/I/71OgThhD4dL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 12
+      "relevancia": 11
     },
     {
       "EAN": 1,
@@ -128,7 +118,7 @@
       "precio": 60.0,
       "ASIN": "B07ZL6B5SS",
       "imagen": "https://m.media-amazon.com/images/I/51kbNfy9-nL._AC_SL1012_.jpg",
-      "relevancia": 13
+      "relevancia": 12
     },
     {
       "EAN": 1,
@@ -138,7 +128,7 @@
       "precio": 34.75,
       "ASIN": "B08SXQTV52",
       "imagen": "https://m.media-amazon.com/images/I/61frKUCrCDL._AC_SL1183_.jpg",
-      "relevancia": 14
+      "relevancia": 13
     },
     {
       "EAN": 1,
@@ -148,7 +138,7 @@
       "precio": 82.75,
       "ASIN": "B00QFKIYX4",
       "imagen": "https://m.media-amazon.com/images/I/617Cb9LDmlL._SL1500_.jpg",
-      "relevancia": 15
+      "relevancia": 14
     },
     {
       "EAN": 1,
@@ -158,7 +148,7 @@
       "precio": 82.75,
       "ASIN": "B079GPHV44",
       "imagen": "https://m.media-amazon.com/images/I/51eBGjbubbL._AC_SL1000_.jpg",
-      "relevancia": 16
+      "relevancia": 15
     },
     {
       "EAN": 1,
@@ -168,7 +158,7 @@
       "precio": 54.25,
       "ASIN": "B006TH5DUK",
       "imagen": "https://m.media-amazon.com/images/I/71eQCAdLgUL._AC_SL1500_.jpg",
-      "relevancia": 17
+      "relevancia": 16
     },
     {
       "EAN": 1,
@@ -178,7 +168,7 @@
       "precio": 25.0,
       "ASIN": "B0165H0JHU",
       "imagen": "https://m.media-amazon.com/images/I/618XsBsIeZL._SL1500_.jpg",
-      "relevancia": 18
+      "relevancia": 17
     },
     {
       "EAN": 1,
@@ -188,7 +178,7 @@
       "precio": 31.75,
       "ASIN": "B00GB8IA5C",
       "imagen": "https://m.media-amazon.com/images/I/81WB+wQDJ7L._SL1500_.jpg",
-      "relevancia": 19
+      "relevancia": 18
     },
     {
       "EAN": 1,
@@ -198,7 +188,7 @@
       "precio": 11.25,
       "ASIN": "B00VO6BRGK",
       "imagen": "https://m.media-amazon.com/images/I/71QY7V1cEcL._AC_SL1500_.jpg",
-      "relevancia": 20
+      "relevancia": 19
     },
     {
       "EAN": 1,
@@ -208,7 +198,7 @@
       "precio": 11.75,
       "ASIN": "B00GHUZDFO",
       "imagen": "https://m.media-amazon.com/images/I/51nObYh9SuL._AC_SL1200_.jpg",
-      "relevancia": 21
+      "relevancia": 20
     },
     {
       "EAN": 1,
@@ -218,7 +208,7 @@
       "precio": 87.75,
       "ASIN": "B005FNKMF0",
       "imagen": "https://m.media-amazon.com/images/I/61NiiZlnaRL._AC_SL1500_.jpg",
-      "relevancia": 22
+      "relevancia": 21
     },
     {
       "EAN": 1,
@@ -228,7 +218,7 @@
       "precio": 26.25,
       "ASIN": "B0073FTCJU",
       "imagen": "https://m.media-amazon.com/images/I/81rSIbr2v9L._SL1500_.jpg",
-      "relevancia": 23
+      "relevancia": 22
     },
     {
       "EAN": 1,
@@ -238,7 +228,7 @@
       "precio": 24.25,
       "ASIN": "B075PLPVWF",
       "imagen": "https://m.media-amazon.com/images/I/61XU1lKKl2L._AC_SL1500_.jpg",
-      "relevancia": 24
+      "relevancia": 23
     },
     {
       "EAN": 1,
@@ -248,7 +238,7 @@
       "precio": 23.0,
       "ASIN": "B00OOUSJ0A",
       "imagen": "https://m.media-amazon.com/images/I/617hFXLgy1L._AC_SL1500_.jpg",
-      "relevancia": 25
+      "relevancia": 24
     },
     {
       "EAN": 1,
@@ -258,17 +248,7 @@
       "precio": 26.25,
       "ASIN": "B074HB44JQ",
       "imagen": "https://m.media-amazon.com/images/I/61L3TxAWYWL._AC_SL1000_.jpg",
-      "relevancia": 26
-    },
-    {
-      "EAN": 1,
-      "GSI": 11684293362920089460,
-      "nombre": "Momo Champ\u00c3\u00ba 250 ml",
-      "distribuidor": "Davines",
-      "precio": 23.0,
-      "ASIN": "B073WW3KZL",
-      "imagen": "https://m.media-amazon.com/images/I/61PkAII-MvL._AC_SL1500_.jpg",
-      "relevancia": 27
+      "relevancia": 25
     },
     {
       "EAN": 8004608237488,
@@ -278,17 +258,17 @@
       "precio": 27.25,
       "ASIN": "B00GCCQ3DI",
       "imagen": "https://m.media-amazon.com/images/I/8171xcBNwDL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 28
+      "relevancia": 26
     },
     {
-      "EAN": 1,
+      "EAN": 8004608269113,
       "GSI": 10623661203372066259,
-      "nombre": "nourishing naturaltech shampoo 250 ml",
+      "nombre": "Naturaltech Nourishing Champ\u00c3\u00ba 250 ml",
       "distribuidor": "Davines",
       "precio": 26.25,
-      "ASIN": "B07XT173PR",
-      "imagen": "https://m.media-amazon.com/images/I/51B+6TcPl0L._AC_SL1000_.jpg",
-      "relevancia": 29
+      "ASIN": "B0073FD66A",
+      "imagen": "https://m.media-amazon.com/images/I/710Mkvp7dwL._AC_UL600_FMwebp_QL65_.jpg",
+      "relevancia": 27
     },
     {
       "EAN": 8004608240419,
@@ -298,7 +278,7 @@
       "precio": 24.75,
       "ASIN": "B00GTW4QQ2",
       "imagen": "https://m.media-amazon.com/images/I/71ONvn43fDL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 30
+      "relevancia": 28
     },
     {
       "EAN": 1,
@@ -306,9 +286,9 @@
       "nombre": "Momo Champ\u00c3\u00ba 250 ml",
       "distribuidor": "Davines",
       "precio": 23.0,
-      "ASIN": "B001ARP2LY",
-      "imagen": "https://m.media-amazon.com/images/I/61VFtW881fL._SL1500_.jpg",
-      "relevancia": 31
+      "ASIN": "B073WW3KZL",
+      "imagen": "https://m.media-amazon.com/images/I/61PkAII-MvL._AC_SL1500_.jpg",
+      "relevancia": 29
     },
     {
       "EAN": 8004608236580,
@@ -318,637 +298,67 @@
       "precio": 26.25,
       "ASIN": "B0073FO9AM",
       "imagen": "https://m.media-amazon.com/images/I/61efmekJOJL._AC_UL600_FMwebp_QL65_.jpg",
-      "relevancia": 32
+      "relevancia": 30
     },
     {
-      "EAN": 1,
-      "GSI": 2,
+      "EAN": 8004608242550,
+      "GSI": 5632906504165503153,
       "nombre": "davines minu - champ\u00c3\u00ba, 250 ml",
       "distribuidor": "Davines",
       "precio": 18.0,
       "ASIN": "B00OKME7S0",
       "imagen": "https://m.media-amazon.com/images/I/51tqI4Llw6L._AC_SY879_.jpg",
-      "relevancia": 33
+      "relevancia": 31
     },
     {
-      "EAN": 1,
-      "GSI": 2,
+      "EAN": 8004608240730,
+      "GSI": 14682460711794499499,
       "nombre": "davines essential haircare oi/shampoo - absolute beautifying shampoo.",
       "distribuidor": "Davines",
       "precio": 71.0,
       "ASIN": "B00HUEGDZU",
       "imagen": "https://m.media-amazon.com/images/I/71VKDzk0r1L._AC_SX569_.jpg",
-      "relevancia": 34
+      "relevancia": 32
     },
     {
-      "EAN": 1,
-      "GSI": 2,
+      "EAN": 8004608237495,
+      "GSI": 2226848262174835689,
       "nombre": "davines more inside relaxing moisturizing fluid crema - 125 ml",
       "distribuidor": "Davines",
       "precio": 23.0,
       "ASIN": "B00GB8V338",
       "imagen": "https://m.media-amazon.com/images/I/716gvvoUnwL._AC_SY879_.jpg",
-      "relevancia": 35
+      "relevancia": 33
     },
     {
-      "EAN": 1,
-      "GSI": 2,
+      "EAN": 8004608258216,
+      "GSI": 859529077139890087,
       "nombre": "davines tcc the quick fix circle 50 ml.",
       "distribuidor": "Davines",
       "precio": 10.0,
       "ASIN": "B07661NQDH",
       "imagen": "https://m.media-amazon.com/images/I/61LnDOXZX8L._SX522_.jpg",
-      "relevancia": 36
+      "relevancia": 34
     },
     {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines essential haircare love curl revitalizer 75ml",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B073WF21FL",
-      "imagen": "https://m.media-amazon.com/images/I/41xzRw9UBYL._AC_SX569_.jpg",
-      "relevancia": 37
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
+      "EAN": 8004608261780,
+      "GSI": 1939224718813679718,
       "nombre": "davines - leche protectora solar para el cabello su hair milk, 135 ml",
       "distribuidor": "Davines",
       "precio": 21.0,
       "ASIN": "B07BNRR82Z",
       "imagen": "https://m.media-amazon.com/images/I/61POgcMSYiL._AC_SY879_.jpg",
-      "relevancia": 38
+      "relevancia": 35
     },
     {
-      "EAN": 1,
-      "GSI": 2,
+      "EAN": 8004608258995,
+      "GSI": 6824618517849690561,
       "nombre": "davines alchemic red champ\u00c3\u00ba 280 287370 g",
       "distribuidor": "Davines",
       "precio": 20.0,
       "ASIN": "B007XNNF72",
       "imagen": "https://m.media-amazon.com/images/I/61vdz6GUP-L._SX522_.jpg",
-      "relevancia": 39
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines dede hair mist - cuidado capilar, 250 gr",
-      "distribuidor": "Davines",
-      "precio": 27.0,
-      "ASIN": "B00OKS2H5Y",
-      "imagen": "https://m.media-amazon.com/images/I/71rhRX9JXsL._AC_SY879_.jpg",
-      "relevancia": 40
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines tcc the wake-up circle 50 ml.",
-      "distribuidor": "Davines",
-      "precio": 10.0,
-      "ASIN": "B076QFZPCS",
-      "imagen": "https://m.media-amazon.com/images/I/61wY6hdEnAL._SX522_.jpg",
-      "relevancia": 41
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines\u00c2\u00a0\u00e2\u20ac\u201c\u00c2\u00a0nounou nourishing illuminating shampoo\u00c2\u00a0\u00e2\u20ac\u201c\u00c2\u00a0250\u00c2\u00a0ml/8.45oz by davines",
-      "distribuidor": "Davines",
-      "precio": 23.0,
-      "ASIN": "B00RYOH38M",
-      "imagen": "https://m.media-amazon.com/images/I/31PCFvLhLJL._AC_SX425_.jpg",
-      "relevancia": 42
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines 75098-d melu champ\u00c3\u00ba, 1000 ml",
-      "distribuidor": "Davines",
-      "precio": 58.0,
-      "ASIN": "B006IUYSZO",
-      "imagen": "https://m.media-amazon.com/images/I/413LeWVOkHL._SX522_.jpg",
-      "relevancia": 43
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines volu hair mist - cuidado capilar, 250 ml",
-      "distribuidor": "Davines",
-      "precio": 33.0,
-      "ASIN": "B00OOVQVGS",
-      "imagen": "https://m.media-amazon.com/images/I/71eW1ni6gFL._SY679_.jpg",
-      "relevancia": 44
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines natural tech renewing - tratamiento acondicionador para todo tipo de cabello y escalada (250 ml)",
-      "distribuidor": "Davines",
-      "precio": 32.0,
-      "ASIN": "B07D1RG262",
-      "imagen": "https://m.media-amazon.com/images/I/81q7YTG7isL._AC_SX569_.jpg",
-      "relevancia": 45
-    },
-    {
-      "EAN": 1,
-      "GSI": 10295120153245638300,
-      "nombre": "davines more inside medium hold finishing gum - 75 ml",
-      "distribuidor": "Davines",
-      "precio": 22.0,
-      "ASIN": "B00GB8OJA2",
-      "imagen": "https://m.media-amazon.com/images/I/718f-kCb10L._SX522_.jpg",
-      "relevancia": 46
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines tcc the purity circle - 50 ml",
-      "distribuidor": "Davines",
-      "precio": 8.0,
-      "ASIN": "B076QFV8CW",
-      "imagen": "https://m.media-amazon.com/images/I/610M7Uns1fL._SX522_.jpg",
-      "relevancia": 47
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines more inside volume boosting mousse 250ml.",
-      "distribuidor": "Davines",
-      "precio": 24.0,
-      "ASIN": "B0162EDN4W",
-      "imagen": "https://m.media-amazon.com/images/I/61+vnks3uBS._SX522_.jpg",
-      "relevancia": 48
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines melu escudo - 250 ml.",
-      "distribuidor": "Davines",
-      "precio": 33.0,
-      "ASIN": "B00OOVAJV6",
-      "imagen": "https://m.media-amazon.com/images/I/71QJvwDKQPL._SY679_.jpg",
-      "relevancia": 49
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines aceite non oil - 250 ml",
-      "distribuidor": "Davines",
-      "precio": 26.0,
-      "ASIN": "B00GCCH6AM",
-      "imagen": "https://m.media-amazon.com/images/I/81E1Y8fq5DL._SY679_.jpg",
-      "relevancia": 50
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines\u00c2\u00a0\u00e2\u20ac\u201c\u00c2\u00a0dede delicate daily conditioner (for all hair types) 250\u00c2\u00a0ml/8.45oz",
-      "distribuidor": "Davines",
-      "precio": 25.0,
-      "ASIN": "B07CZ6DMK4",
-      "imagen": "https://m.media-amazon.com/images/I/61Q5TMcwrLL._AC_SX569_.jpg",
-      "relevancia": 51
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines more inside invisible serum efecto d\u00c3\u00ada despues - 50 ml",
-      "distribuidor": "Davines",
-      "precio": 20.0,
-      "ASIN": "B00GB8RJ40",
-      "imagen": "https://m.media-amazon.com/images/I/81XF-GgYhUL._AC_SY879_.jpg",
-      "relevancia": 52
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines dede delicate acondicionador - 1000 ml",
-      "distribuidor": "Davines",
-      "precio": 22.0,
-      "ASIN": "B00QFKRQO2",
-      "imagen": "https://m.media-amazon.com/images/I/71Tq+sCMsSL._SY679_.jpg",
-      "relevancia": 53
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, cuidado del pelo y del cuero cabelludo - 250 ml",
-      "distribuidor": "Davines",
-      "precio": 24.0,
-      "ASIN": "B0130KXHW4",
-      "imagen": "https://m.media-amazon.com/images/I/61tsFM2rmPL._SY679_.jpg",
-      "relevancia": 54
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines naturaltech calming shampoo 1000 ml - 100 ml",
-      "distribuidor": "Davines",
-      "precio": 60.0,
-      "ASIN": "B074SHC7XG",
-      "imagen": "https://m.media-amazon.com/images/I/618FUba-BrL._SX522_.jpg",
-      "relevancia": 55
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines nourishing vegetarian miracle acondicionado 60\u00c2\u00a0ml",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B0725Q5H11",
-      "imagen": "https://m.media-amazon.com/images/I/71csqe7W2FL._AC_SX569_.jpg",
-      "relevancia": 56
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines aceite - 100 ml",
-      "distribuidor": "Davines",
-      "precio": 29.0,
-      "ASIN": "B0073FZHMG",
-      "imagen": "https://m.media-amazon.com/images/I/61hMvpueUEL._AC_SY879_.jpg",
-      "relevancia": 57
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, cuidado del pelo y del cuero cabelludo - 75 gr.",
-      "distribuidor": "Davines",
-      "precio": 12.0,
-      "ASIN": "B01M5JMMZA",
-      "imagen": "https://m.media-amazon.com/images/I/61cEaO6s0mL._AC_SX569_.jpg",
-      "relevancia": 58
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines minu champ\u00c3\u00ba illuminating protective champ\u00c3\u00ba (for coloured hair) 1000 ml/33.8oz",
-      "distribuidor": "Davines",
-      "precio": 58.0,
-      "ASIN": "B07D1DJ8TH",
-      "imagen": "https://m.media-amazon.com/images/I/51doV2V7d-L._AC_SX569_.jpg",
-      "relevancia": 59
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, filtro solar corporal - 75 gr.",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B00VO6BX6E",
-      "imagen": "https://m.media-amazon.com/images/I/719EBbT0MRL._AC_SX569_.jpg",
-      "relevancia": 60
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "natural tech replumping conditioner (for all hair types) 1000ml/33.8oz",
-      "distribuidor": "Davines",
-      "precio": 72.0,
-      "ASIN": "B01CUYO004",
-      "imagen": "https://m.media-amazon.com/images/I/31bN+JWylJL._AC_.jpg",
-      "relevancia": 61
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines su champu para cabello&cuerpo 75 200 g",
-      "distribuidor": "Davines",
-      "precio": 21.0,
-      "ASIN": "B00VO6BJ40",
-      "imagen": "https://m.media-amazon.com/images/I/6167vVyOkoL._SY679_.jpg",
-      "relevancia": 62
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "naturaltech natural tech mini productos champ\u00c3\u00ba energizante - 100 ml",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B073P2JXJ6",
-      "imagen": "https://m.media-amazon.com/images/I/510yPHWoVjL._SX522_.jpg",
-      "relevancia": 63
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines, set de regalo de pelo - 400 ml.",
-      "distribuidor": "Davines",
-      "precio": 30.0,
-      "ASIN": "B01LY8TERO",
-      "imagen": "https://m.media-amazon.com/images/I/41PvID1tYXL._AC_SX569_.jpg",
-      "relevancia": 64
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines finest pigments #5 casta\u00c3\u00b1o claro 280 ml - 280 ml",
-      "distribuidor": "Davines",
-      "precio": 54.0,
-      "ASIN": "B008AW6L5S",
-      "imagen": "https://m.media-amazon.com/images/I/51y3GwSclOL._SX522_.jpg",
-      "relevancia": 65
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines minu illuminating mascarilla para el pelo - 1000 ml",
-      "distribuidor": "Davines",
-      "precio": 84.0,
-      "ASIN": "B00QFL8G9U",
-      "imagen": "https://m.media-amazon.com/images/I/71Gd2tDswFL._AC_SY879_.jpg",
-      "relevancia": 66
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines natural tech well-being champ\u00c3\u00ba - 100 ml",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B00CGPJDCS",
-      "imagen": "https://m.media-amazon.com/images/I/71fIZhi6eSL._AC_SY879_.jpg",
-      "relevancia": 67
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines natural tech well-being acondicionador - 60 ml",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B00CGPMFA0",
-      "imagen": "https://m.media-amazon.com/images/I/81DrUs2nO4L._AC_SY879_.jpg",
-      "relevancia": 68
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines r renewing pro boost superactivo 500 ml.",
-      "distribuidor": "Davines",
-      "precio": 65.0,
-      "ASIN": "B075JM91SV",
-      "imagen": "https://m.media-amazon.com/images/I/61orhAryb+L._SX522_.jpg",
-      "relevancia": 69
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines\u00c2\u00a0\u00e2\u20ac\u201c\u00c2\u00a0natural de tech well being conditioner 1000\u00c2\u00a0ml/33.8oz",
-      "distribuidor": "Davines",
-      "precio": 66.0,
-      "ASIN": "B07D1S8MV8",
-      "imagen": "https://m.media-amazon.com/images/I/31YIgkiiFXL._AC_.jpg",
-      "relevancia": 70
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines finest pigments red 280ml",
-      "distribuidor": "Davines",
-      "precio": 64.0,
-      "ASIN": "B00VDW61LQ",
-      "imagen": "https://m.media-amazon.com/images/I/51aLQiqyZ8L._AC_SX569_.jpg",
-      "relevancia": 71
-    },
-    {
-      "EAN": 1,
-      "GSI": 16195132851768984627,
-      "nombre": "daviness, acondicionador de pelo - 125 gr.",
-      "distribuidor": "Davines",
-      "precio": 18.0,
-      "ASIN": "B00GB8T5P6",
-      "imagen": "https://m.media-amazon.com/images/I/816IvMudwCL._AC_SY879_.jpg",
-      "relevancia": 72
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "momo hair potion moisturizing universal cream (for dry or dehydrated hair) 150ml/5.07oz",
-      "distribuidor": "Davines",
-      "precio": 30.0,
-      "ASIN": "B0774H86RS",
-      "imagen": "https://m.media-amazon.com/images/I/61MzbwEZ3QL._AC_SX569_.jpg",
-      "relevancia": 73
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness - tinte con extractos de plantas, 280 ml, mahogany/mogano",
-      "distribuidor": "Davines",
-      "precio": 54.0,
-      "ASIN": "B0087CW9G6",
-      "imagen": "https://m.media-amazon.com/images/I/51q36-7PcdL._SX522_.jpg",
-      "relevancia": 74
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, cuidado del pelo y del cuero cabelludo - 280 gr.",
-      "distribuidor": "Davines",
-      "precio": 54.0,
-      "ASIN": "B007804K1U",
-      "imagen": "https://m.media-amazon.com/images/I/51KSK4kmLaL._AC_SX569_.jpg",
-      "relevancia": 75
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, cuidado del pelo y del cuero cabelludo - 280 gr.",
-      "distribuidor": "Davines",
-      "precio": 60.0,
-      "ASIN": "B00514HDDW",
-      "imagen": "https://m.media-amazon.com/images/I/51sawcKkxUL._SX522_.jpg",
-      "relevancia": 76
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, acondicionador de pelo - 75 gr.",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B00VO6BMSS",
-      "imagen": "https://m.media-amazon.com/images/I/61DipDlPqRL._AC_SY879_.jpg",
-      "relevancia": 77
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "su crema protectora spf30 cara y cuerpo 100 ml",
-      "distribuidor": "Davines",
-      "precio": 31.0,
-      "ASIN": "B08BV2JHQ5",
-      "imagen": "https://m.media-amazon.com/images/I/618Ipo+1LVL._AC_SY741_.jpg",
-      "relevancia": 78
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, acondicionador de pelo - 75 gr.",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B00VO6BQ98",
-      "imagen": "https://m.media-amazon.com/images/I/61Sk9fwSlGL._AC_SY879_.jpg",
-      "relevancia": 79
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, filtro solar corporal - 280 gr.",
-      "distribuidor": "Davines",
-      "precio": 18.0,
-      "ASIN": "B00WT4CKH6",
-      "imagen": "https://m.media-amazon.com/images/I/61gG4o73GSL._SX522_.jpg",
-      "relevancia": 80
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "skeyndor essential mini productos acondicionador minu - 75 ml",
-      "distribuidor": "Davines",
-      "precio": 9.0,
-      "ASIN": "B00R13JF82",
-      "imagen": "https://m.media-amazon.com/images/I/61BqJCWy4bL._SX522_.jpg",
-      "relevancia": 81
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, cuidado del pelo y del cuero cabelludo - 60 ml",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B00VO6CERG",
-      "imagen": "https://m.media-amazon.com/images/I/51z18aFaY+L._AC_SX569_.jpg",
-      "relevancia": 82
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, filtro solar corporal - 150 gr.",
-      "distribuidor": "Davines",
-      "precio": 22.0,
-      "ASIN": "B00OOU62GI",
-      "imagen": "https://m.media-amazon.com/images/I/61BllWB2D1L._SY679_.jpg",
-      "relevancia": 83
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "authentic f\u00c3\u00b3rmulas nourishing oil r&c&c 140 ml",
-      "distribuidor": "Davines",
-      "precio": 34.0,
-      "ASIN": "B01LEJKG36",
-      "imagen": "https://m.media-amazon.com/images/I/51ipoyaJgXL._AC_SX569_.jpg",
-      "relevancia": 84
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines concentrado - 500 ml",
-      "distribuidor": "Davines",
-      "precio": 17.0,
-      "ASIN": "B0073G6B70",
-      "imagen": "https://m.media-amazon.com/images/I/81gMerN1KVL._AC_SY879_.jpg",
-      "relevancia": 85
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines fitnest pigments n\u00c2\u00ba4 medium brown/casta\u00c3\u00b1o",
-      "distribuidor": "Davines",
-      "precio": 69.0,
-      "ASIN": "B005CKGO7Q",
-      "imagen": "https://m.media-amazon.com/images/I/51x6enww6+L._AC_SX569_.jpg",
-      "relevancia": 86
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines fitnest pigments n\u00c2\u00ba7 blonde/rubio medio",
-      "distribuidor": "Davines",
-      "precio": 69.0,
-      "ASIN": "B0087CWAJC",
-      "imagen": "https://m.media-amazon.com/images/I/51D06qlltsL._AC_SX425_.jpg",
-      "relevancia": 87
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines elevating clay supercleanser 120g",
-      "distribuidor": "Davines",
-      "precio": 89.0,
-      "ASIN": "B09LM698WG",
-      "imagen": "https://m.media-amazon.com/images/I/61y1tu57KmL._AC_SX569_.jpg",
-      "relevancia": 88
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines, set de regalo de pelo - 100 ml.",
-      "distribuidor": "Davines",
-      "precio": 13.0,
-      "ASIN": "B01DF7WCP0",
-      "imagen": "https://m.media-amazon.com/images/I/41s4R5HomqL._AC_SX569_.jpg",
-      "relevancia": 89
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines sobre aftersun aftersun para el rostro y el cuerpo, novedad 2018, 150 ml",
-      "distribuidor": "Davines",
-      "precio": 24.0,
-      "ASIN": "B07C54JJRX",
-      "imagen": "https://m.media-amazon.com/images/I/71eITCwjI4L._AC_SY879_.jpg",
-      "relevancia": 90
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines nt nourishing hair building pak 60 ml*",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B07D8RKS7Y",
-      "imagen": "https://m.media-amazon.com/images/I/71PCmPX0+RL._AC_SX569_.jpg",
-      "relevancia": 91
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "daviness, filtro solar corporal - 75 gr.",
-      "distribuidor": "Davines",
-      "precio": 16.0,
-      "ASIN": "B015JWDUUA",
-      "imagen": "https://m.media-amazon.com/images/I/71pBlYxU7sL._AC_SY879_.jpg",
-      "relevancia": 92
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines nt detoxifying scrub champ\u00c3\u00ba 100 ml",
-      "distribuidor": "Davines",
-      "precio": 11.0,
-      "ASIN": "B07DRJ7KSM",
-      "imagen": "https://m.media-amazon.com/images/I/513nhkTMENL._AC_SX569_.jpg",
-      "relevancia": 93
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines natural tech detoxifying scrub shampoo (for atonic scalp) 1000ml",
-      "distribuidor": "Davines",
-      "precio": 60.0,
-      "ASIN": "B075QLWXGP",
-      "imagen": "https://m.media-amazon.com/images/I/61ty+VqVwoL._AC_SX569_.jpg",
-      "relevancia": 94
-    },
-    {
-      "EAN": 1,
-      "GSI": 2,
-      "nombre": "davines nounou nourishing mascarilla para el pelo - 1000 ml",
-      "distribuidor": "Davines",
-      "precio": 72.0,
-      "ASIN": "B0165H0MRC",
-      "imagen": "https://m.media-amazon.com/images/I/61Cx88pHWBL._AC_SX569_.jpg",
-      "relevancia": 95
+      "relevancia": 36
     }
   ]
 }

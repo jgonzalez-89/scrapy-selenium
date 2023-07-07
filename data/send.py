@@ -9,7 +9,7 @@ with open("Davines.json") as f:
 url = "http://127.0.0.1:8000/davines/crear/"
 
 # Token de autenticación
-auth_token = "ccf17c0cf75187f21cd6b17b98aa19b4bf1031e5"
+auth_token = "f1270875b7defcce8c4664fae13f3638089538a5"
 
 # Cabeceras HTTP
 headers = {

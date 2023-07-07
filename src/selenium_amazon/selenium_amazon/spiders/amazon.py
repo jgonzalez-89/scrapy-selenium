@@ -27,16 +27,21 @@ class AmazonSpider(scrapy.Spider):
             self.asin = asin.split(",")
         else:
             self.asin = [
+                #davines
                 "B005FNKMF0",
                 "B006TH5DUK",
                 "B0073FD66A",
                 "B0073FO9AM",
                 "B0073FTCJU",
+                "B007XNNF72",
                 "B00GB8IA5C",
+                "B00GB8V338",
                 "B00GCCQ3DI",
                 "B00GHUZDFO",
                 "B00GTW4QQ2",
                 "B00GTW4S3S",
+                "B00HUEGDZU",
+                "B00OKME7S0",
                 "B00OOUSJ0A",
                 "B00QFKIYX4",
                 "B00U1JHWR4",
@@ -46,16 +51,59 @@ class AmazonSpider(scrapy.Spider):
                 "B0165H0JHU",
                 "B06XSF4R1X",
                 "B06ZZ6CDY1",
+                "B073WW3KZL",
                 "B074HB44JQ",
                 "B075PLPVWF",
+                "B07661NQDH",
                 "B079GPHV44",
+                "B07BNRR82Z",
                 "B07RRBZF7T",
                 "B07ZJ82DFL",
+                "B07ZL56NS7",
                 "B07ZL6B5SS",
                 "B0813DB98Y",
                 "B08SXQTV52",
                 "B08SXSWC7Y",
-            ]
+                #comfortzone
+                "B015UCTS5U",
+                "B015UD2POA",
+                "B015UD5JLG",
+                "B015UDH09A",
+                "B0190MZQ34",
+                "B01DRZEK96",
+                "B01JTHDLTQ",
+                "B01MSA66C8",
+                "B01MUI8JBV",
+                "B01MYFU663",
+                "B01N36O3RT",
+                "B01N5S2BHO",
+                "B01N7UYUVY",
+                "B01N9UH4T9",
+                "B01NAVYVLG",
+                "B01NB0TI00",
+                "B01NBXIKIL",
+                # "B01NC23R9N",
+                "B01ND3RNF9",
+                "B06XD65SNZ",
+                "B06XDGDTM9",
+                "B06XDGM9HL",
+                "B06Y3NHWVG",
+                "B074Y3DQ47",
+                "B075WD97B2",
+                "B077NF3R4W",
+                "B077NGWYRX",
+                "B07BZDZ3JM",
+                "B07BZM3HQH",
+                "B07C25PY16",
+                "B07C7KCF4W",
+                "B07KJB395Z",
+                "B07KJBL9RK",
+                "B07KJD3N8M",
+                "B07KK15DY1",
+                "B07L5Q9F49",
+                "B07Z1BWSYX",
+                "B085GK4LQF",
+                ]
 
     def start_requests(self):
         for asin in self.asin:
@@ -163,6 +211,7 @@ class AmazonSpider(scrapy.Spider):
         if match:
             return match.group(0)
         return None
+
 
     # @staticmethod
     # def extract_EAN(response):
